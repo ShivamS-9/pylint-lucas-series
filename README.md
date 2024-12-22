@@ -25,9 +25,23 @@ The script also includes **Pylint** for static code analysis to improve code qua
 
 ## Script Description
 
-### `lucas_number.py`
+### `lucasinitial.py`
 
 This script implements the following steps:
 1. **Input Handling:** Takes an integer `n` as input from the user.
 2. **Lucas Number Calculation:** Uses the recurrence relation to calculate the Lucas number \( L_n \) based on the input `n`.
 3. **Output:** Prints the corresponding Lucas number \( L_n \).
+
+### Linting Process:
+- **Pylint** is used to perform a static analysis of the code.
+- It checks the code for potential issues such as:
+  - Code formatting issues (e.g., incorrect indentation, line length).
+  - Missing or unused imports.
+  - Undefined variables and incorrect function calls.
+  - Improper naming conventions.
+  - Complexity and readability improvements.
+
+- **Recommendations**: Based on the linting results, several recommendations for improvement may be made. These could include refactoring code, improving naming conventions, simplifying complex statements, and other best practices.
+  
+After addressing the recommended changes, the script is re-linted, and the updated lint score is recorded.
+
