@@ -31,9 +31,3 @@ This script implements the following steps:
 1. **Input Handling:** Takes an integer `n` as input from the user.
 2. **Lucas Number Calculation:** Uses the recurrence relation to calculate the Lucas number \( L_n \) based on the input `n`.
 3. **Output:** Prints the corresponding Lucas number \( L_n \).
-
-## Project Structure
-
-lucas-number-series-analysis/ │ ├── code/ # Contains the Python script to compute Lucas number │ └── lucas_number.py # The main Python script with the Lucas series logic │ ├── lint/ # Contains the lint reports and related files │ └── pylint_report.txt # The Pylint report generated after linting the code │ └── pylint_score.txt # The final Pylint score after addressing recommendations │ └── README.md # Project documentation (this file)
-
-
