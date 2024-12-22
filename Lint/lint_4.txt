@@ -1,0 +1,9 @@
+************* Module test_removeafter
+test_removeafter.py:27:0: C0304: Final newline missing (missing-final-newline)
+test_removeafter.py:10:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+test_removeafter.py:16:8: W0612: Unused variable 'i' (unused-variable)
+test_removeafter.py:27:0: W0104: Statement seems to have no effect (pointless-statement)
+
+------------------------------------------------------------------
+Your code has been rated at 8.00/10 (previous run: 7.89/10, +0.11)
+

@@ -1,0 +1,9 @@
+************* Module test_removeafter
+test_removeafter.py:10:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+test_removeafter.py:17:8: C0103: Variable name "ln" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:16:8: W0612: Unused variable 'i' (unused-variable)
+test_removeafter.py:25:4: C0103: Constant name "result" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 7.89/10 (previous run: 4.74/10, +3.16)
+

@@ -1,0 +1,6 @@
+************* Module test_removeafter
+test_removeafter.py:10:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+
+------------------------------------------------------------------
+Your code has been rated at 9.50/10 (previous run: 8.95/10, +0.55)
+

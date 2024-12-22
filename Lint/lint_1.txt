@@ -1,0 +1,19 @@
+************* Module test_removeafter
+test_removeafter.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+test_removeafter.py:1:8: C0103: Argument name "n" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:1:0: C0116: Missing function or method docstring (missing-function-docstring)
+test_removeafter.py:1:8: W0621: Redefining name 'n' from outer scope (line 15) (redefined-outer-name)
+test_removeafter.py:2:4: C0103: Variable name "L_0" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:3:4: C0103: Variable name "L_1" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:4:4: R1705: Unnecessary "elif" after "return" (no-else-return)
+test_removeafter.py:8:4: C0103: Variable name "Ln_minus_2" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:9:4: C0103: Variable name "Ln_minus_1" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:11:8: C0103: Variable name "Ln" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:12:8: C0103: Variable name "Ln_minus_2" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:13:8: C0103: Variable name "Ln_minus_1" doesn't conform to snake_case naming style (invalid-name)
+test_removeafter.py:10:8: W0612: Unused variable 'i' (unused-variable)
+test_removeafter.py:19:4: C0103: Constant name "result" doesn't conform to UPPER_CASE naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 2.63/10 (previous run: 2.11/10, +0.53)
+
